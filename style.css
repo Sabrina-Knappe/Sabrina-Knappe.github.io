@@ -6,3 +6,15 @@ body{
     font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
     font-size: 12px; 
 }
+
+.floating{
+    position: fixed;
+    top:0;
+    width: 100%;
+    display: block;
+    background-color: #F1F1F1;
+    height:10%;
+    box-shadow: 2px 2px 25px #000000;
+    overflow: hidden;
+    z-index: 10;
+}
