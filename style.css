@@ -1,0 +1,8 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+    font-size: 12px; 
+}
