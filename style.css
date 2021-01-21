@@ -14,7 +14,18 @@ body{
     display: block;
     background-color: #242424;
     height:10%;
-    box-shadow: 2px 2px 10px #000000;
+    box-shadow: 2px 2px 5px #000000;
     overflow: hidden;
     z-index: 10;
+}
+
+footer{
+    width:98%;
+    /*height:4%;*/
+    font-size: 12pt;
+    color: navy;
+    background-color: #242424;
+    padding-left: 2%;
+    margin-top:1%;
+    overflow: hidden;
 }
