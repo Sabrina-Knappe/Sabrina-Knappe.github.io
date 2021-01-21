@@ -29,3 +29,22 @@ footer{
     margin-top:1%;
     overflow: hidden;
 }
+
+nav #a{
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+    float: left;
+    color: white;
+    margin: 1%;
+    margin-top: 0.5%;
+}
+
+nav #b, #c, #d{
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+    font-size: 2.4vh;
+    float: right;
+    color: white;
+    font-weight: 50px;
+    padding: 1%;
+    padding-top: 2.2%;
+
+}
