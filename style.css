@@ -14,7 +14,7 @@ body{
     display: block;
     background-color: #242424;
     height:10%;
-    box-shadow: 2px 2px 25px #000000;
+    box-shadow: 2px 2px 10px #000000;
     overflow: hidden;
     z-index: 10;
 }
