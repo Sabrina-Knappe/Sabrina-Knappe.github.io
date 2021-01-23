@@ -35,7 +35,8 @@ nav #a{
     float: left;
     font-size: 5vh;
     color: rgb(255, 204, 220);
-
+    /*    margin: 1%;
+    margin-top: 0.5%; */
     padding: 1%;
     padding-top: 2.2%;
 }
