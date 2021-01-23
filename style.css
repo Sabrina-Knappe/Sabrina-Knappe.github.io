@@ -50,7 +50,7 @@ nav #b, #c, #d{
 }
 
 nav #b:hover, #c:hover, #d:hover{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
     font-size: 2.4vh;
     float: right;
     color: #ff4f95;
