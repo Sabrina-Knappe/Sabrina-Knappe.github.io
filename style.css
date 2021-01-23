@@ -36,9 +36,9 @@ nav #a{
     font-size: 5vh;
     color: rgb(255, 204, 220);
     /*    margin: 1%;
-    margin-top: 0.5%; */
+    margin-top: 0.5%; 
     padding: 1%;
-    padding-top: 2.2%;
+    padding-top: 2.2%;*/
 }
 
 nav #b, #c, #d{
@@ -47,8 +47,8 @@ nav #b, #c, #d{
     float: right;
     color: white;
     font-weight: 50px;
-    padding: 1%;
-    padding-top: 2.2%;
+    /*padding: 1%;
+    padding-top: 2.2%;*/
 
 }
 
@@ -58,6 +58,6 @@ nav #b:hover, #c:hover, #d:hover{
     float: right;
     color: #fe71aa;
     font-weight: 50px;
-    padding: 1%;
-    padding-top: 2.2%;
+    /*padding: 1%;
+    padding-top: 2.2%;*/
 }
